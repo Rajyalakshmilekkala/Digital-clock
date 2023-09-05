@@ -1,0 +1,22 @@
+body {
+  background: linear-gradient(to right, #113664, #c51020);
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  height: 10rem;
+  width: 40rem;
+  background: rgba(0, 0, 0, 0.1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#digital-clock {
+  font-size: 4rem;
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+}
